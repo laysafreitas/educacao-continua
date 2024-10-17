@@ -1,4 +1,4 @@
-# Educação Continuada
+# Educação Contínuada
 
 ## Descrição
 **Educação Continuada** é uma plataforma educacional focada em saúde sexual e reprodutiva. Desenvolvida com **Node.js** e **Express.js** no backend, e **React** com **TypeScript** no frontend, esta aplicação oferece uma experiência interativa e informativa para os usuários.
