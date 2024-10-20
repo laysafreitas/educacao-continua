@@ -46,7 +46,7 @@
 ### Pré-requisitos
 Antes de executar o projeto, certifique-se de ter instalado:
 - [Node.js](https://nodejs.org/)
-- [MongoDB](https://www.mongodb.com/try/download/community)
+- [Mysql]
 
 ### Passos para Executar
 1. **Clone o repositório:**
